@@ -29,7 +29,7 @@ python crack.py -h
 
 
 
-🔍 Wordlist Mode
+## 🔨 wordlist Mode
 Use a wordlist file to attempt passwords:
 
 python crack.py -pdf locked.pdf -w rockyou.txt -t 20
