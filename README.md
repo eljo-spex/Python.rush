@@ -35,7 +35,7 @@ Use a wordlist file to attempt passwords:
   **python crack.py -pdf locked.pdf -w rockyou.txt -t 20**
 
 
-**Arguments:**
+Arguments:
 | Flag            | Description           |
 | --------------- | --------------------- |
 | `-pdf`          | Path to protected PDF |
@@ -51,7 +51,7 @@ Generate passwords using a charset:
   **python crack.py -pdf locked.pdf -g -char abc123 -min 3 -max 5 -t 20**
 
 
-**Arguments:**
+Arguments:
 
 | Flag                | Description                     |
 | ------------------- | ------------------------------- |
